@@ -1,4 +1,4 @@
-<p align="left">Hi 👋! My name is Vitor Cyriaco and I'm a Web and Mobile Developer, from Brazil</p>
+#### <p align="center">Hi 👋! My name is Vitor Cyriaco and I'm a Web and Mobile Developer, from Brazil</p>
 
 ###
 <br>
